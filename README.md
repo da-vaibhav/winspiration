@@ -6,3 +6,4 @@ programmers winspiration
 * Deliberate Practice http://expertenough.com/1423/deliberate-practice
 * How to Improve as a Programmer http://www.benorenstein.com/blog/how-to-improve-as-a-programmer/
 * How to become a better hacker https://glebbahmutov.com/blog/better-hacker/
+* AMAs https://github.com/sindresorhus/amas
