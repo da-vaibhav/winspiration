@@ -7,3 +7,4 @@ programmers winspiration
 * How to Improve as a Programmer http://www.benorenstein.com/blog/how-to-improve-as-a-programmer/
 * How to become a better hacker https://glebbahmutov.com/blog/better-hacker/
 * AMAs https://github.com/sindresorhus/amas
+* Javascript fatigue fatigue http://www.2ality.com/2016/02/js-fatigue-fatigue.html
