@@ -8,3 +8,4 @@ programmers winspiration
 * How to become a better hacker https://glebbahmutov.com/blog/better-hacker/
 * AMAs https://github.com/sindresorhus/amas
 * Javascript fatigue fatigue http://www.2ality.com/2016/02/js-fatigue-fatigue.html
+* “Being tired isn’t a badge of honor” by @jasonfried https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e#.30mzhq1jf
