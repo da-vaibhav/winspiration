@@ -1,5 +1,5 @@
 # winspiration
-programmers winspiration
+programmer’s inspiration
 * When Learning, Attitude and Approach Matter http://jaysoo.ca/2015/06/25/when-learning-attitude-and-approach-matter/
 * How to Do What You Love & Earn What You’re Worth as a Programmer https://leanpub.com/dowhatyoulove/read
 * Being a healthy software engineer https://toddmotto.com/being-a-healthy-software-engineer/
