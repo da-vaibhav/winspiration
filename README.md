@@ -11,3 +11,4 @@ programmer’s inspiration
 * “Being tired isn’t a badge of honor” by @jasonfried https://m.signalvnoise.com/being-tired-isn-t-a-badge-of-honor-fa6d4c8cff4e#.30mzhq1jf
 * asking good questions https://medium.com/@dan_abramov/asking-good-questions-421f08ee7e5c
 * How To Learn Technical Things http://jamison.dance/07-04-2016/how-to-learn-technical-things/
+* "Just..." by brad frost http://bradfrost.com/blog/post/just/
